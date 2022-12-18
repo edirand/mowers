@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TechLeadTest.Presentation.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "Inputs.txt"
+    }
+  }
+}
